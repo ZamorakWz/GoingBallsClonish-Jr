@@ -1,4 +1,5 @@
-My First Game Project: Going Balls Clone
+**_My First Game Project:_** Going Balls Clone
+
 This is my first game development project, where I attempted to create a clone of the hypercasual game Going Balls.
 
 Code Quality: The code is quite basic and doesn't adhere to SOLID principles, OOP methodologies, or clean code practices.
